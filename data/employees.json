@@ -1,0 +1,7 @@
+[
+  { "firstName": "Carlos",   "middleName": "Dev",  "lastName": "García"    },
+  { "firstName": "María",    "middleName": "QA",   "lastName": "López"     },
+  { "firstName": "Andrés",   "middleName": "Auto", "lastName": "Martínez"  },
+  { "firstName": "Lucía",    "middleName": "Test", "lastName": "Fernández" },
+  { "firstName": "Santiago", "middleName": "Dev",  "lastName": "Rodríguez" }
+]
