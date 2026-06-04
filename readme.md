@@ -1,5 +1,7 @@
 # Playwright Automation Framework 🎭
 
+![Playwright Tests](https://github.com/Rayjhoelblanco/playwright-automation-framework/actions/workflows/playwright.yml/badge.svg)
+
 Framework de automatización de pruebas E2E construido con **Playwright + TypeScript**.
 
 ## 🛠️ Stack Tecnológico
